@@ -3,4 +3,5 @@ uvicorn[standard]
 streamlit
 python-dotenv
 google-generativeai
-fastapi-limiter
+pydantic
+requests
